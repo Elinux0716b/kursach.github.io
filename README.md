@@ -1,1 +1,1 @@
-# kursach.github.io
+# kursach
